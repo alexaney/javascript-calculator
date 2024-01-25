@@ -150,7 +150,7 @@ function App() {
           <div id="." className="button decimal" onClick={handleClick}>.</div>
         </container>
       </div>
-      <p id="coder">Designed and coded by Mr. Poop</p>
+      <p id="coder">Designed and coded by Alex Aney</p>
     </div>
   );
 }
